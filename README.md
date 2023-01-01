@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MennoBR
 - 👀 I’m interested in Movies, Music and Coding
-- 🌱 I’m currently learning Python and C.
-- 💞️ I’m looking to collaborate on projects in Python and C languages.
+- 🌱 I’m currently learning Django.
+- 💞️ I’m looking to collaborate on projects in Python.
 - 📫 How to reach me: here.
 
 <!---
